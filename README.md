@@ -34,20 +34,47 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+## CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+### Half wave rectifier with filter:
+<img width="965" height="615" alt="Screenshot 2025-10-17 085322" src="https://github.com/user-attachments/assets/2360f235-19a7-4db4-8f84-3130793aadd8" />
 
-Bridge rectifier with filter:
+### Bridge rectifier with filter:
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
-
-WAVEFORM:
+<img width="956" height="641" alt="Screenshot 2025-10-17 085330" src="https://github.com/user-attachments/assets/632a80cb-1910-45f9-b5e3-7f4d2d3bbdd9" />
 
 
-RESULT:
+## Rectifier without filter
+### Half wave:
+<img width="444" height="256" alt="image" src="https://github.com/user-attachments/assets/0244673a-8f29-4c0d-9b9c-ff15e6714742" />
+
+
+### Full wave:
+<img width="477" height="301" alt="image" src="https://github.com/user-attachments/assets/484e95a4-719c-4cf3-849e-951900007a5c" />
+
+
+## Rectifier with filter
+### Half wave:
+<img width="460" height="214" alt="image" src="https://github.com/user-attachments/assets/82c8ffb6-fa16-4243-9e33-468b65428640" />
+### Full wave:
+<img width="811" height="505" alt="image" src="https://github.com/user-attachments/assets/e702a479-81a1-4360-9f55-7d1b072e8851" />
+
+## TABULAR COLUMN
+### Half wave:
+<img width="434" height="148" alt="image" src="https://github.com/user-attachments/assets/5260c269-2fee-40a2-af51-23cf92187fcd" />
+
+### Full wave:
+<img width="438" height="132" alt="image" src="https://github.com/user-attachments/assets/d3245588-de02-4fcc-aba4-81502fbc7dbe" />
+
+
+## WAVEFORM:
+
+### Half wave:
+<img width="448" height="247" alt="image" src="https://github.com/user-attachments/assets/f5f4653b-f5e8-462e-8c32-676a0788515f" />
+### Full wave:
+<img width="426" height="262" alt="image" src="https://github.com/user-attachments/assets/2a9e0ae1-5eab-4e53-84e1-9f18f37da65c" />
+
+
+## RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
